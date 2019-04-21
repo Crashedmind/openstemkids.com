@@ -3,20 +3,20 @@ path: "/Airblock"
 cover: "../Airblock/airblock.jpg"
 date: "2018-06-22"
 title: "Makeblock Airblock"
-tags: ['Electronics', 'Coding', Drone]
+tags: ['Electronics', 'Coding', 'Drone']
 published: true
 ---
 
 
-![Airblock](/assets/airblock.jpg)
+![Airblock](./airblock.jpg)
 
-![Airblock](/assets/airblock1.jpg)
+![Airblock](./airblock1.jpg)
 
-![Airblock](/assets/airblock2.jpg)
+![Airblock](./airblock2.jpg)
 
-![Airblock](/assets/airblock3.jpg)
+![Airblock](./airblock3.jpg)
 
-![Airblock](/assets/airblock4.jpg)
+![Airblock](./airblock4.jpg)
 
 
 
