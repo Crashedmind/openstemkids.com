@@ -1,6 +1,6 @@
 ---
 path: "/Airblock"
-cover: "../Airblock/airblock.jpg"
+cover: "./airblock.jpg"
 date: "2018-06-22"
 title: "Makeblock Airblock"
 tags: ['Electronics', 'Coding', 'Drone']
