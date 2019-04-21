@@ -4,7 +4,7 @@ cover: "./AdventuresinRaspberryPi.jpg"
 date: "2018-6-22"
 title: "Adventures in Raspberry Pi"
 tags: ['RaspberryPi', 'Electronics']
-published:true
+published: true
 ---
 
 
