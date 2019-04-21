@@ -2,7 +2,7 @@
 path: "/HarryPotterThemedAngryBirds"
 title: "Harry Potter Themed Angry Birds"
 date: "2018-11-11"
-cover: "https://img.youtube.com/vi/3vSvNTi3wCo/0.jpg"
+cover: "./ScratchAngryBirds_3vSvNTi3wCo.jpg"
 tags: ['coding', 'scratch', 'AngryBirds', 'HarryPotter']
 published: true
 ---
