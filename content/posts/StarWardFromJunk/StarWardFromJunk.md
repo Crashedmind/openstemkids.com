@@ -2,7 +2,7 @@
 path: "/StarWarsSpaceship"
 title: "Star Wars Spaceship"
 date: "2018-11-11"
-cover: "./SWCraft12.png "
+cover: "./SWCraft12.png"
 tags: ['crafts']
 published: true
 ---
