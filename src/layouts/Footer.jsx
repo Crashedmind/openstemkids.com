@@ -25,8 +25,13 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        OpenSTEMKids -{' '}
-        <a href="https://openstemkids.com">openstemkids.com</a>
+        <a href="https://www.youtube.com/channel/UClT-YU-Yl_3to7yXAHEeuqA">Youtube</a>
+      </span>
+      <span>
+        <a href="https://twitter.com/STEMOpen">Twitter</a>
+      </span>
+      <span>
+        <a href="mailto:crashedmind@gmail.com">Email</a>
       </span>
     </Text>
   </Wrapper>
