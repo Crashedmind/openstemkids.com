@@ -3,7 +3,7 @@ path: "/RaspberryPiAlexa"
 title: "Raspberry Pi Alexa"
 date: "2018-12-15"
 cover: "./amazonalexalogo-630x472.jpg"
-tags: ['raspberrypi', 'Alexa', 'AmazonDeveloper', 'VoiceRecognition', 'AI', 'HarryPotter]
+tags: ['raspberrypi', 'Alexa', 'AmazonDeveloper', 'VoiceRecognition', 'AI', 'HarryPotter']
 published: true
 ---
 
