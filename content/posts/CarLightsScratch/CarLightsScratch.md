@@ -5,12 +5,11 @@ date: "2018-11-18"
 cover: "./carlightsscratch.png"
 tags: [ 'coding', 'leds', 'electronics', 'simulation']
 published: true
-
+---
 # Part 1 Simulating Using Scratch
 
 
 ## Demo 
-
 [![Simulating the indicator, reverse, brake lights on a car using Scratch](./CarLightsScratch_cVSb3EtPrd8.jpg)](https://www.youtube.com/watch?v=cVSb3EtPrd8)
 
 
