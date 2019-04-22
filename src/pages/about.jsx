@@ -7,13 +7,19 @@ import { Layout, Container } from 'layouts';
 const About = center => (
   <Layout>
     <Helmet title={'About Page'} />
-    <Header title="About Page">Gatsby Tutorial Starter</Header>
+    <Header title="About Page">OpenSTEMKids Science Technology Engineering Math for kids</Header>
     <Container center={center}>
       <h3>
-        If you would like to build this site completely from scratch, you can
-        read the guide{' '}
-        <a href="https://justinformentin.com/gatsby-v2-guide">here.</a>
+      OpenSTEMKids facilitates and promotes STEM for children:
+      - Science
+      - Technology
+      - Engineering
+      - Mathematics
+      - (and Art and Robotics too)
       </h3>
+      <h4>
+      This site exists to share learning and fun. There is zero interest or attempt to make money from this site. Therefore, this site has zero affiliation with any of the products shown, or links listed, and zero of the links are affiliate links.
+      </h4>
     </Container>
   </Layout>
 );
