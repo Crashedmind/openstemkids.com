@@ -7,16 +7,16 @@ tags: ['STEM', 'Parents', 'Pedagody', 'Curriculum', 'NCCA' ]
 published: true 
 ---
 
-**This is a gathering of my thoughts and experiences as a STEM parent (working in a profession that relates to Science, Technology, Engineering, Maths) who led a series of STEM classes with my kids' school. It's a retrospective. It is written primarily for my benefit, but others may find it useful.
+**This is a gathering of my thoughts and experiences as a STEM parent (working in a profession that relates to Science, Technology, Engineering, Maths) who led a series of STEM classes with my kids' school. It's a retrospective. It is written primarily for my benefit, but others may find it useful.**
 
-The main outcome of this stage was a [presentation ](https://docs.google.com/presentation/d/1vLz-oIf_13jl7KrR4l1jtORkT0xjbGgKtymp9oGGvdw/edit?usp=sharing ) to the school for a STEM curriculum driven by STEM parents.**
+**The main outcome of this stage was a [presentation ](https://docs.google.com/presentation/d/1vLz-oIf_13jl7KrR4l1jtORkT0xjbGgKtymp9oGGvdw/edit?usp=sharing ) to the school for a STEM curriculum driven by STEM parents.**
 
 ---
 See the full series of blogs on the STEM workshop:                                         
 1. [STEM Workshop With My Kids School - Part 1 - Before the STEM Workshop](../STEMParents1)
 2. [STEM Workshop With My Kids School - Part 2 - The STEM Workshop](../STEMParents2)       
 3. [STEM Workshop With My Kids School - Part 3 - Where To From Here](../STEMParents3)      
----
+
 
 # Before the STEM Workshop
 
