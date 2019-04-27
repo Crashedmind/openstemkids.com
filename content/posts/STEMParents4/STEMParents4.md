@@ -1,13 +1,13 @@
 ---
-path: "/STEMParents3"
-cover: "./20190411_104248.jpg"
+path: "/STEMParents4"
+cover: "./D0kK_59X0AAkhJC.jpeg"
 date: "2019-04-13"
-title: "STEM Workshop With My Kids School - Part 3 - Where To From Here"
-tags: ['STEM', 'Parents', 'Work', 'RobotWars', 'FormulaPi', 'RobotDanceOff']
+title: "STEM Workshop With My Kids School - Part 4 - Tweets"
+tags: ['STEM', 'Parents', 'Work', 'twitter', 'tweet']
 published: true    
 ---
 
-**Coming to the end of the STEM workshop series, it's time to think about next steps...**
+**The tweets associated with the STEM workshop...**
 
 
 
@@ -17,6 +17,7 @@ See the full series of blogs on the STEM workshop:
 2. [STEM Workshop With My Kids School - Part 2 - The STEM Workshop](../STEMParents2)       
 3. [STEM Workshop With My Kids School - Part 3 - Where To From Here](../STEMParents3)      
 4. [STEM Workshop With My Kids School - Part 4 - STEM Workshop Tweets](../STEMParents4)      
+
 
 
 ## Workshop Tweets 
@@ -31,39 +32,4 @@ See the full series of blogs on the STEM workshop:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">6th class at <a href="https://twitter.com/OLOWKilternan?ref_src=twsrc%5Etfw">@OLOWKilternan</a>. A super smart class of kids! Mastering the forces of Energy, to make Emily the smart Lego head potted plant - who speaks Irish - and can tell you when she&#39;s thirsty or too hot!<a href="https://t.co/C270Fq6u0h">https://t.co/C270Fq6u0h</a><br>@PDSTPrimSTEM <a href="https://twitter.com/PDST_TechinEd?ref_src=twsrc%5Etfw">@PDST_TechinEd</a> <a href="https://twitter.com/KQuille?ref_src=twsrc%5Etfw">@KQuille</a> <a href="https://twitter.com/hashtag/STEM?src=hash&amp;ref_src=twsrc%5Etfw">#STEM</a></p>&mdash; OpenSTEMKids (@StemOpen) <a href="https://twitter.com/StemOpen/status/1109365218969300992?ref_src=twsrc%5Etfw">March 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks to Chris for exploring different forms of energy with 3rd Class last week!👨‍🔬👩‍🔬 <a href="https://twitter.com/hashtag/STEM?src=hash&amp;ref_src=twsrc%5Etfw">#STEM</a> <a href="https://twitter.com/hashtag/teamwork?src=hash&amp;ref_src=twsrc%5Etfw">#teamwork</a> <a href="https://twitter.com/hashtag/investigate?src=hash&amp;ref_src=twsrc%5Etfw">#investigate</a> <a href="https://t.co/0JZRqnwwiw">pic.twitter.com/0JZRqnwwiw</a></p>&mdash; Our Lady of The Wayside (@OLOWKilternan) <a href="https://twitter.com/OLOWKilternan/status/1105171478889316358?ref_src=twsrc%5Etfw">March 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-## First Step
-I see this STEM workshop series as a first step - but the next steps, or the destination, are not yet defined. 
-
-Ultimately, I'd like for this to scale i.e. for teachers and SNAs to deliver contemporary STEM content, with STEM parents becoming more involved.
-
-
-## Part Time
-I would not do this full time and this is not an "Encore Career". I greatly admire teachers and what they do - but it is not for me full-time. I have a full time demanding job that I enjoy and it is rewarding personally and financially. I enjoy my own company and thinking time. So doing this part time is a good balance. Running an after school class is something I considered for the future. This would realise the curriculum idea I originally wanted. But this would require a significant reorg of my work life e.g. working a 4 day week.
-
-Meanwhile, other teachers I know in other schools asked if I'd be interested in doing a STEM class with them. I declined; my primary interest is that my kids benefit.
-
-## Other Activities
-Currently, I'm busy speaking on various work related topics
-
-- Last week, I gave a presentation to Masters students in ITT on DevSecOps. And I ran a patent training workshop to encourage engineers to submit their first patent. 
-- Next week, I'll do a presentation on the Payment Card Industry security and certification requirements. And then, there's a business trip to China.
-
-## STEM Is Very Accessible
-STEM has become a lot more accessible to students and teachers. Companies like makeblock.com or Raspberry Pi offer STEM products and associated curricula that get you up and running quickly and easily.
-
-STEM materials and electronics and kits are now available at low cost from sites like wish.com, aliexpress.com, gearbest.com. Though these are not always of high quality, and user friendliness of premium products like [Makeblock Neuron](https://www.openstemkids.com/makeblock-neuron-all-in-one-kit ).
-
-## Robot Wars, Dance-off, FormulaPi
-An alternative to a Product Development curriculum idea is a robot competition curriculum. Students would build and program a robot over a series of classes to compete e.g.  
-
-* [Robot Wars](http://www.robotwars.tv/) 
-* [Robot Dance-off](https://www.youtube.com/watch?v=TLGWQfK-6DY)
-* [Robot FormulaPi](https://www.piborg.org/robots/formulapi-entry)
-
-## Next steps
-I'll resume my work related course and certification and reduce my STEM activities for now.
-
-Any significant updates may be posted here in the future...
 
