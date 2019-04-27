@@ -46,6 +46,7 @@ module.exports = {
       },
     },
     'gatsby-plugin-sharp',
+    "gatsby-plugin-twitter",
     'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-plugin-manifest',
