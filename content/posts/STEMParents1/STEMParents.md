@@ -7,20 +7,16 @@ tags: ['STEM', 'Parents', 'Pedagody', 'Curriculum', 'NCCA' ]
 published: true 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">4th Class exploring different forms of energy💡🔍Thanks Chris <a href="https://twitter.com/StemOpen?ref_src=twsrc%5Etfw">@StemOpen</a> for a very engaging morning! <a href="https://twitter.com/hashtag/STEM?src=hash&amp;ref_src=twsrc%5Etfw">#STEM</a> @PDSTPrimSTEM <a href="https://t.co/XL1qi7IBLn">pic.twitter.com/XL1qi7IBLn</a></p>&mdash; Our Lady of The Wayside (@OLOWKilternan) <a href="https://twitter.com/OLOWKilternan/status/1101423689562767360?ref_src=twsrc%5Etfw">March 1, 2019</a></blockquote> 
+**This is a gathering of my thoughts and experiences as a STEM parent (working in a profession that relates to Science, Technology, Engineering, Maths) who led a series of STEM classes with my kids' school. It's a retrospective. It is written primarily for my benefit, but others may find it useful.
 
+The main outcome of this stage was a [presentation ](https://docs.google.com/presentation/d/1vLz-oIf_13jl7KrR4l1jtORkT0xjbGgKtymp9oGGvdw/edit?usp=sharing ) to the school for a STEM curriculum driven by STEM parents.**
 
-This is a gathering of my thoughts and experiences as a STEM parent (working in a profession that relates to Science, Technology, Engineering, Maths) who led a series of STEM classes with my kids' school. It's a retrospective. It is written primarily for my benefit, but others may find it useful.
-
-
-The main outcome of this stage was a [presentation ](https://docs.google.com/presentation/d/1vLz-oIf_13jl7KrR4l1jtORkT0xjbGgKtymp9oGGvdw/edit?usp=sharing ) to the school for a STEM curriculum driven by STEM parents.
-
-
+---
 See the full series of blogs on the STEM workshop:                                         
 1. [STEM Workshop With My Kids School - Part 1 - Before the STEM Workshop](../STEMParents1)
 2. [STEM Workshop With My Kids School - Part 2 - The STEM Workshop](../STEMParents2)       
 3. [STEM Workshop With My Kids School - Part 3 - Where To From Here](../STEMParents3)      
-
+---
 
 # Before the STEM Workshop
 

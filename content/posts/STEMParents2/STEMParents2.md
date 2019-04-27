@@ -7,7 +7,7 @@ tags: ['STEM', 'Parents', 'Curriculum']
 published: true 
 ---
 
-
+**Defining the STEM workshop**
 
 
 A STEM workshop was offered by the school principal to the teachers from 3rd to 6th class. All 7 teachers subscribed. 
@@ -16,18 +16,20 @@ A STEM workshop was offered by the school principal to the teachers from 3rd to 
 
 (My son is in 2nd class but the STEM workshop was not available to him - though he really wanted to do it.)
 
+---
 See the full series of blogs on the STEM workshop:                                         
 1. [STEM Workshop With My Kids School - Part 1 - Before the STEM Workshop](../STEMParents1)
 2. [STEM Workshop With My Kids School - Part 2 - The STEM Workshop](../STEMParents2)       
 3. [STEM Workshop With My Kids School - Part 3 - Where To From Here](../STEMParents3)      
-
+---
 
 
 
 ## Criteria For Defining The Activity
 1. Fun and engaging for the students so they would get value from it
 2. A success with the school teachers and principal
-3. They would see what was possible and be encouraged to do more Unique. I did not want to do STEM activities the school was already doing. It would not be coding. There are enough coding activities available outside school - and not every kid is into coding. 
+3. They would see what was possible and be encouraged to do more. 
+4. Unique; I did not want to do STEM activities the school was already doing. It would not be coding. There are enough coding activities available outside school - and not every kid is into coding. 
 5. Fit with materials and resources I had
 6. Student led; after an initial introduction on the theory, the kids would have to figure out how to build the circuits themselves (and I'd provide input if asked). 
 7. Minimal dependencies on school equipment. The school has laptops for the students but I would have to familiarise myself with them and set them up as required so I avoided using them for this STEM workshop.
@@ -87,9 +89,9 @@ Overall, I am very happy with how the classes went - students, teachers, and I e
 
 Preparing the content took a lot of effort at the start - with some classes being prepared the night before after I finished work. 
 
-I refined each class based on what went well and what didn't. For the first few classes each team was given an A1 sheet to describe the activities and the results to be presented. I dropped this in later classes, as the writing of the activity details excluded those doing the writing from the activity. I think an optimal setup would be 2 people delivering the content to 8 teams of 3-4 students but I did not have the second set of materials or a second person to deliver except for one of the classes where one of the other STEM parents co-prepared and co-delivered with me. This was much more effective than one person.
-
-I had originally planned to do a Retrospective at the end of the class to reflect on the activity but time did not permit so this was dropped. The Retrospective would be more meaningful if the class was doing a series of workshops instead of just one.
+I refined each class based on what went well and what didn't. 
+* For the first few classes each team was given an A1 sheet to describe the activities and the results to be presented. I dropped this in later classes, as the writing of the activity details excluded those doing the writing from the activity. I think an optimal setup would be 2 people delivering the content to 8 teams of 3-4 students but I did not have the second set of materials or a second person to deliver except for one of the classes where one of the other STEM parents co-prepared and co-delivered with me. This was much more effective than one person.
+* I had originally planned to do a Retrospective at the end of the class to reflect on the activity but time did not permit so this was dropped. The Retrospective would be more meaningful if the class was doing a series of workshops instead of just one.
 
 Based on the feedback, the teachers were impressed with what the students knew already and how well they performed the activities with the minimal instruction provided.
 
