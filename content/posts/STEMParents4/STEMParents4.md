@@ -18,6 +18,7 @@ See the full series of blogs on the STEM workshop:
 3. [STEM Workshop With My Kids School - Part 3 - Where To From Here](../STEMParents3)      
 4. [STEM Workshop With My Kids School - Part 4 - STEM Workshop Tweets](../STEMParents4)      
 
+--- 
 
 
 ## Workshop Tweets 

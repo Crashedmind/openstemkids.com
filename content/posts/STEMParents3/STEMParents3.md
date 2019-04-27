@@ -18,6 +18,7 @@ See the full series of blogs on the STEM workshop:
 3. [STEM Workshop With My Kids School - Part 3 - Where To From Here](../STEMParents3)      
 4. [STEM Workshop With My Kids School - Part 4 - STEM Workshop Tweets](../STEMParents4)      
 
+---
 
 ## Workshop Tweets 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ms Burns 6th Class Full-on-fun STEM Energy workshop <a href="https://twitter.com/OLOWKilternan?ref_src=twsrc%5Etfw">@OLOWKilternan</a> <a href="https://t.co/kJzLWBQpbQ">https://t.co/kJzLWBQpbQ</a> Build circuits to detect colours of light, measure distance using sound, transmit morse code, control a light with light, sound and proximity, putting out fires, and keeping plants happy.</p>&mdash; OpenSTEMKids (@StemOpen) <a href="https://twitter.com/StemOpen/status/1116828772135837697?ref_src=twsrc%5Etfw">April 12, 2019</a></blockquote> 

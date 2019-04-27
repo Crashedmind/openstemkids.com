@@ -21,6 +21,7 @@ See the full series of blogs on the STEM workshop:
 3. [STEM Workshop With My Kids School - Part 3 - Where To From Here](../STEMParents3)      
 4. [STEM Workshop With My Kids School - Part 4 - STEM Workshop Tweets](../STEMParents4)      
 
+---
 
 ## Criteria For Defining The Activity
 1. Fun and engaging for the students so they would get value from it
