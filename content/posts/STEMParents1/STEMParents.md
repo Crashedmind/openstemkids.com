@@ -22,6 +22,7 @@ See the full series of blogs on the STEM workshop:
 
 # Before the STEM Workshop
 
+
 ## About Me
 I work as a software security and system architect in the payments industry. My college education was in Electronic Engineering. I'm about half way through my working career age-wise, and near the top in terms of the technical ladder I chose. My wife works as an environmental consultant (though also has an Electronic Engineering college education just like me).
 
@@ -82,7 +83,7 @@ This applied 2 important industry concepts:
 
 ## 21st Century Skills
 
-![21st Century Skills](/assets/p21.png)
+![21st Century Skills](./p21.png)
 
 ### Communication, Collaboration, Creativity, and Critical Thinking
 I had researched various pedagogies and compiled [a summary of pedagogies I liked]( https://drive.google.com/file/d/0BwrM9BmHsajKdWNzTEVrRmh2c1p6QXBRWkF4Sk43bkkzbUJr/view?usp=sharing)
