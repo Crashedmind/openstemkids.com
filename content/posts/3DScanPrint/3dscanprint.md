@@ -10,8 +10,7 @@ published: true
 
 ## 3D Scan and Print a Toy Duck
 
-![3DPrinter](./1.jpg)
-
+[![3DPrinter](./1.jpg)(https://youtu.be/GL8B_cfy2xE)
 
 ## Event
 
@@ -34,6 +33,7 @@ From left to right:
 1. Dobby who could not be scanned. Due to some Harry Potter magic or because the scanner filters out human skin colours.
 2. The original duck in green that was scanned
 3. The smaller duck in pink that was printed. We'll give it some colour and features by painting it.
+
 
 
 ![result](./2.jpg)
