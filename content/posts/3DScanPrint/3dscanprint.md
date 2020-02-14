@@ -10,7 +10,8 @@ published: true
 
 ## 3D Scan and Print a Toy Duck
 
-[![3DPrinter](./1.jpg)(https://youtu.be/GL8B_cfy2xE)
+[![3DPrinter](./yt.jpg)(https://youtu.be/GL8B_cfy2xE)]
+
 
 ## Event
 
@@ -35,6 +36,7 @@ From left to right:
 3. The smaller duck in pink that was printed. We'll give it some colour and features by painting it.
 
 
+![result](./1.jpg)
 
 ![result](./2.jpg)
 
