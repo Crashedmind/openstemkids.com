@@ -10,7 +10,7 @@ published: true
 
 ## 3D Scan and Print a Toy Duck
 
-[![3DPrinter](./yt.jpg)(https://youtu.be/GL8B_cfy2xE)]
+[![3DPrinter](./yt.jpg)](https://youtu.be/GL8B_cfy2xE)
 
 
 ## Event
