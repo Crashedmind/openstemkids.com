@@ -9,7 +9,7 @@ published: true
 
 Create a large Lego plate by connecting several Lego plates together
 
-[![LegoBoard](./LegoBoard_otAGvvQ_xd8.jpg)](https://www.youtube.com/watch?v=otAGvvQ_xd8)
+[![LegoBoard](./LegoBase4.jpg)](https://www.youtube.com/watch?v=otAGvvQ_xd8)
 
 
 

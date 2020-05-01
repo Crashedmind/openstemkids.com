@@ -47,7 +47,7 @@ The longlist of possible activities was
 - [Green screen and timelapse video](https://docs.google.com/document/d/1Oi4IAgfDKY2WmhwIFr8TCfmn1VYa5rigunuceS_PBBQ/edit#heading=h.4ehwn0zgtl1y) 
 - [Madewithcode visual coding](https://www.youtube.com/watch?v=yd18bahbdEE&t)
 - STEM parent career presentation
-- [Electric circuits from household items](https://www.openstemkids.com/ElectronicsforKidsy)
+- [Electric circuits from household items](https://www.openstemkids.com/ElectronicsforKids)
 - [Makeblock Hovercraft / Drone Coding](https://www.openstemkids.com/Airblock)
 - [Ozobots](https://www.openstemkids.com/Ozobots) where I had given an impromptu class on this after the intial presentation to the school in 2017
 

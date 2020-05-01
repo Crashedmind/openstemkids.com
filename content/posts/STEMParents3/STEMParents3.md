@@ -43,14 +43,14 @@ Currently, I'm busy speaking on various work related topics
 ## STEM Is Very Accessible
 STEM has become a lot more accessible to students and teachers. Companies like makeblock.com or Raspberry Pi offer STEM products and associated curricula that get you up and running quickly and easily.
 
-STEM materials and electronics and kits are now available at low cost from sites like wish.com, aliexpress.com, gearbest.com. Though these are not always of high quality, and user friendliness of premium products like [Makeblock Neuron](https://www.openstemkids.com/makeblock-neuron-all-in-one-kit ).
+STEM materials and electronics and kits are now available at low cost from sites like wish.com, aliexpress.com, gearbest.com. Though these are not always of high quality, and user friendliness of premium products like [Makeblock Neuron](https://www.openstemkids.com/MakeblockNeuronAllInOneKit ).
 
 ## Robot Wars, Dance-off, FormulaPi
 An alternative to a Product Development curriculum idea is a robot competition curriculum. Students would build and program a robot over a series of classes to compete e.g.  
 
 * [Robot Wars](http://www.robotwars.tv/) 
 * [Robot Dance-off](https://www.youtube.com/watch?v=TLGWQfK-6DY)
-* [Robot FormulaPi](https://www.piborg.org/robots/formulapi-entry)
+* [Robot FormulaPi](https://www.google.com/search?q=robots+formula+pi)
 
 ## Next steps
 I'll resume my work related course and certification and reduce my STEM activities for now.
