@@ -69,7 +69,7 @@ Amazon Rekognition recognises the cartoon image face.
 
 
 
-[![Wheres Wookiee Rekognition](./ImageRekognition_j3jYfXHRv8I.jpg)](https://www.youtube.com/watch?v=j3jYfXHRv8I)
+[![Wheres Wookiee Rekognition](./ImageFaceRecognition_whereswookiebook.jpg)](https://www.youtube.com/watch?v=j3jYfXHRv8I)
 Amazon Rekognition cannot find the face in the crowd.
 
 

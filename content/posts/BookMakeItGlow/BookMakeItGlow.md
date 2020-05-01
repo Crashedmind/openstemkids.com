@@ -8,7 +8,7 @@ published: true
 ---
 
 
-[![MakeItGlow](/assets/BookMakeItGlow.jpg)](https://www.amazon.com/Make-Glow-Projects-Whole-Family-ebook/dp/B01KBDP6VS)
+[![MakeItGlow](BookMakeItGlow.jpg)](https://www.amazon.com/Make-Glow-Projects-Whole-Family-ebook/dp/B01KBDP6VS)
 
 
 [Make It Glow LED Projects for the Whole Family](https://www.amazon.com/Make-Glow-Projects-Whole-Family-ebook/dp/B01KBDP6VS)
