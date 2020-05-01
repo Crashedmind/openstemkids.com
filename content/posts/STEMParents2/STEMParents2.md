@@ -40,18 +40,18 @@ Content and questions were oriented around the Learning Outcomes defined there.
 ## Materials And Resources 
 The longlist of possible activities was
 
-- [Makeblock Neuron](https://www.openstemkids.com/makeblock-neuron-all-in-one-kit )
-- [Amazon Image Recognition Demo](https://www.openstemkids.com/image-face-recognition )
-- [Qdee / microbit](https://www.openstemkids.com/qdee-micro-bit-robot)
-- [Brixo](https://www.openstemkids.com/lego-circuits)
+- [Makeblock Neuron](https://www.openstemkids.com/MakeblockNeuronAllInOneKit )
+- [Amazon Image Recognition Demo](https://www.openstemkids.com/ImageFaceRecognition )
+- [Qdee / microbit](https://www.openstemkids.com/QdeeMicroBitRobot)
+- [Brixo](https://www.openstemkids.com/BrixoElectronicLegoBricks)
 - [Green screen and timelapse video](https://docs.google.com/document/d/1Oi4IAgfDKY2WmhwIFr8TCfmn1VYa5rigunuceS_PBBQ/edit#heading=h.4ehwn0zgtl1y) 
 - [Madewithcode visual coding](https://www.youtube.com/watch?v=yd18bahbdEE&t)
 - STEM parent career presentation
-- [Electric circuits from household items](https://www.openstemkids.com/make-electricity)
-- [Makeblock Hovercraft / Drone Coding](https://www.openstemkids.com/makeblock-airblock-transformable-drone-hovercraft-robot-for-kids)
-- [Ozobots](https://www.openstemkids.com/ozobots) where I had given an impromptu class on this after the intial presentation to the school in 2017
+- [Electric circuits from household items](https://www.openstemkids.com/ElectronicsforKidsy)
+- [Makeblock Hovercraft / Drone Coding](https://www.openstemkids.com/Airblock)
+- [Ozobots](https://www.openstemkids.com/Ozobots) where I had given an impromptu class on this after the intial presentation to the school in 2017
 
-[Makeblock Neuron](https://www.openstemkids.com/makeblock-neuron-all-in-one-kit) and [Brixo](https://www.openstemkids.com/lego-circuits) were selected. I also used various robots I had including [Qdee / microbit](https://www.openstemkids.com/qdee-micro-bit-robot) to demonstrate the different energy electronic components in action.
+[Makeblock Neuron](https://www.openstemkids.com/MakeblockNeuronAllInOneKit) and [Brixo](https://www.openstemkids.com/BrixoElectronicLegoBricks) were selected. I also used various robots I had including [Qdee / microbit](https://www.openstemkids.com/QdeeMicroBitRobot) to demonstrate the different energy electronic components in action.
 
 I purchased an extra battery power block for the Makeblock so 3 Makeblock Neuron activities could be done in parallel and 1 Brixo activity (each class would be divided into teams of 4).
 
